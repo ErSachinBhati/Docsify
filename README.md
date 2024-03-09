@@ -53,6 +53,9 @@ sudo npm install -i docsify-cli -g
 
 **Output**
 
+![image](https://github.com/ErSachinBhati/Docsify/assets/158732178/7cc7d4d4-5abc-47db-8a99-e82da9b20627)
+
+
 ![Screenshot from 2024-03-04 14-20-53](https://github.com/ErSachinBhati/Docsify/assets/158732178/6bfc35b1-4543-41ff-aa44-d45e1f040f4a)
 
 
@@ -73,7 +76,7 @@ docsify init ./docs
 This command creates a docs folder with necessary files and configurations.
 
 
-![image](https://github.com/ErSachinBhati/ErSachinBhati/assets/158732178/adc132fc-6efe-4718-b1aa-9de19f843b4b)
+![Screenshot from 2024-02-22 12-41-40](https://github.com/ErSachinBhati/Docsify/assets/158732178/5a643e3b-432c-450f-9170-454b57c97409)
 
 
 
