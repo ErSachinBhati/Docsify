@@ -108,14 +108,4 @@ Docsify provides a simple way to customize the appearance of your documentation.
 
  # Deploy Documentation
 
-Once you are satisfied with your documentation, you can deploy it to a web server or a hosting service of your choice.
-
-If you want to deploy to GitHub Pages, make sure your repository is public, and run:
-
-```
-docsify gh-pages
-```
-
-This command pushes your documentation to the gh-pages branch of your repository, making it accessible through GitHub Pages.
-That's it! You've now created a documentation website using Docsify. As you continue to update your Markdown files, Docsify will dynamically generate and update your documentation website.
-a
+ Congratulations! You have successfully created Docsify documentation. You can now deploy it to a web server, a hosting service, or on GitHub.
