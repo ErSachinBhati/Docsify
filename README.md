@@ -27,7 +27,7 @@ node -v
 npm -v
 ```
 
-![Screenshot from 2024-03-04 12-23-11](https://github.com/ErSachinBhati/ErSachinBhati/assets/158732178/e16e7b16-c6a6-4877-aef3-f671e8ba7572)
+![Screenshot from 2024-03-04 12-23-11](https://github.com/ErSachinBhati/Docsify/assets/158732178/b10654aa-bc76-47d0-b62d-279f1f969697)
 
 
 If not, we can download it from official website or through terminal command.
@@ -51,7 +51,9 @@ npm i docsify-cli -g
 sudo npm install -i docsify-cli -g
 ```
 
-![image](https://github.com/ErSachinBhati/ErSachinBhati/assets/158732178/3d13c327-9684-4e1e-abf2-1ebc74f27d71)
+**Output**
+
+![Screenshot from 2024-03-04 14-20-53](https://github.com/ErSachinBhati/Docsify/assets/158732178/6bfc35b1-4543-41ff-aa44-d45e1f040f4a)
 
 
 
@@ -77,10 +79,13 @@ This command creates a docs folder with necessary files and configurations.
 
  # Edit Documentation Content
 
-Open the docs folder, and you'll find a file named README.md. This is the main documentation file written in Markdown. Edit this file using a text editor to add your documentation content. You can create additional Markdown files for different sections of your documentation.
+Open the docs folder, and you'll find a file named README.md and index.html. README.md is the main documentation file written in Markdown. Edit this file using a text editor to add your documentation content. You can create additional Markdown files for different sections of your documentation.
 
-![image](https://github.com/ErSachinBhati/ErSachinBhati/assets/158732178/052a8ca1-665b-4fc6-89f4-cd7e45ad5690)
+**Output**
 
+![Screenshot from 2024-03-04 14-52-55](https://github.com/ErSachinBhati/Docsify/assets/158732178/03955d7e-5909-47c0-91d3-fab05cbd6bcc)
+
+![Screenshot from 2024-03-04 14-28-45](https://github.com/ErSachinBhati/Docsify/assets/158732178/e41e6fed-0f80-4c23-9aa3-3eee97ef7fa2)
 
 # Preview Your Documentation
 
@@ -90,19 +95,21 @@ In the terminal, navigate to your project's root folder and run:
 docsify serve ./docs
 ```
 
-![image](https://github.com/ErSachinBhati/ErSachinBhati/assets/158732178/3e837af4-2f84-463b-914a-947a9eda4b2f)
+![Screenshot from 2024-03-04 13-06-09](https://github.com/ErSachinBhati/Docsify/assets/158732178/8b1dc818-387b-45af-88b8-fec7b9daa3b7)
 
 
 This command starts a local development server. Open your web browser and go to http://localhost:3000. You should see your documentation.
 
-![Screenshot from 2024-03-04 13-18-01](https://github.com/ErSachinBhati/ErSachinBhati/assets/158732178/bd5a53e6-843b-4db8-a46e-a980297012c5)
+![Screenshot from 2024-03-04 13-18-01](https://github.com/ErSachinBhati/Docsify/assets/158732178/0c8ec1b2-e0fa-4926-b204-939a155e7f03)
 
 
 # Customize
 
 Docsify provides a simple way to customize the appearance of your documentation. You can modify the index.html file to include custom styles or themes.
 
-![image](https://github.com/ErSachinBhati/ErSachinBhati/assets/158732178/b6d620c9-7843-4bcc-96c0-112cb760e88d)
+**Output**
+
+![Screenshot from 2024-03-04 16-18-11](https://github.com/ErSachinBhati/Docsify/assets/158732178/612d5276-0170-48f2-a12d-65fcb5081a75)
 
 
 
