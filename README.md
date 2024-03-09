@@ -27,13 +27,19 @@ node -v
 npm -v
 ```
 
+**Output**
+
 ![Screenshot from 2024-03-04 12-23-11](https://github.com/ErSachinBhati/Docsify/assets/158732178/b10654aa-bc76-47d0-b62d-279f1f969697)
 
 
 If not, we can download it from official website or through terminal command.
+
+Before you begin, make sure to install necessary dependencies to run Docsify.
+
 ```
 sudo apt-get update
 ```
+It will update the list of packages and sync them to the latest version.
 ```
 sudo apt-get install nodejs
 ```
