@@ -40,6 +40,7 @@ Before you begin, make sure to install necessary dependencies to run Docsify.
 sudo apt-get update
 ```
 It will update the list of packages and sync them to the latest version.
+Now, execute the following command in the terminal
 ```
 sudo apt-get install nodejs
 ```
