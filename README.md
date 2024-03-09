@@ -97,6 +97,7 @@ Open the docs folder, and you'll find a file named README.md and index.html. REA
 
 ![Screenshot from 2024-03-04 14-28-45](https://github.com/ErSachinBhati/Docsify/assets/158732178/e41e6fed-0f80-4c23-9aa3-3eee97ef7fa2)
 
+
 # Preview Your Documentation
 
 In the terminal, navigate to your project's root folder and run:
@@ -104,13 +105,17 @@ In the terminal, navigate to your project's root folder and run:
 ```
 docsify serve ./docs
 ```
+**Output**
 
 ![Screenshot from 2024-03-04 13-06-09](https://github.com/ErSachinBhati/Docsify/assets/158732178/8b1dc818-387b-45af-88b8-fec7b9daa3b7)
 
 
 This command starts a local development server. Open your web browser and go to http://localhost:3000. You should see your documentation.
 
+**Output**
+
 ![Screenshot from 2024-03-04 13-18-01](https://github.com/ErSachinBhati/Docsify/assets/158732178/0c8ec1b2-e0fa-4926-b204-939a155e7f03)
+
 
 
 # Customize
