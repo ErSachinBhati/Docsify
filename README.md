@@ -1,6 +1,6 @@
 # Introduction
 
-Docsify is a lightweight documentation generator that allows you to create beautiful and easily maintainable documentation websites using Markdown files. It is designed to be simple, customizable, and doesn't require a complex setup.
+Docsify is a tool that helps you make good-looking and easy-to-manage websites for your documentation. You just need to write your documentation using simple Markdown files, and Docsify takes care of turning them into a neat website. It's user-friendly, customizable, and doesn't need a lot of complicated setup.
 
 # Characteristics
 
@@ -130,4 +130,4 @@ Docsify provides a simple way to customize the appearance of your documentation.
 
  # Deploy Documentation
 
- Congratulations! You have successfully created Docsify documentation. You can now deploy it to a web server, a hosting service, or on GitHub.
+ Congratulations! You have successfully created Docsify documentation. You can now deploy it to a web server or on GitHub.
