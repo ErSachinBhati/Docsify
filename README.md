@@ -19,7 +19,7 @@ Here are step-by-step instructions in simple words:
 
 # Install Docsify
 
-First, make sure we have Node.js and npm installed on our computer/Laptop.
+First, make sure you have Node.js and npm installed on your computer/Laptop.
 ```
 node -v
 ```
@@ -32,15 +32,17 @@ npm -v
 ![Screenshot from 2024-03-04 12-23-11](https://github.com/ErSachinBhati/Docsify/assets/158732178/b10654aa-bc76-47d0-b62d-279f1f969697)
 
 
-If not, we can download it from official website or through terminal command.
+If not, you can download it from official website or through terminal command.
 
 Before you begin, make sure to install necessary dependencies to run Docsify.
 
 ```
 sudo apt-get update
 ```
+
 It will update the list of packages and sync them to the latest version.
 Now, execute the following command in the terminal
+
 ```
 sudo apt-get install nodejs
 ```
@@ -48,7 +50,8 @@ sudo apt-get install nodejs
 sudo apt-get install npm
 ```
 
-If it has been installed or is already installed, then open our command line or terminal and run the following command to install Docsify globally:
+
+If it has been installed or is already installed, then open your terminal and run the following command to install Docsify globally:
 
 ```
 npm i docsify-cli -g
@@ -128,7 +131,7 @@ Docsify provides a simple way to customize the appearance of your documentation.
 
 
 
-Congratulations! You've successfully installed Docsify, now you can check version of docsify by run following command.
+Congratulations! You have successfully installed Docsify, Now you can check the version of Docsify by running the following command.
 
 ```
 sudo docsify -v
