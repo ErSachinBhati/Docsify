@@ -1,8 +1,8 @@
 # Introduction
 
-Docsify is a tool that helps you make good-looking and easy-to-manage websites for your documentation. You just need to write your documentation using simple Markdown files, and Docsify takes care of turning them into a neat website. It's user-friendly, customizable, and doesn't need a lot of complicated setup.
+Docsify helps you create nice websites for your documentation easily. You just need to write your documentation using simple Markdown files, and Docsify takes care of turning them into a neat website. It's user-friendly, customizable, and doesn't need a lot of complicated setup.
 
-# Characteristics
+# Features
 
 -Simple and lightweight
 
@@ -130,4 +130,4 @@ Docsify provides a simple way to customize the appearance of your documentation.
 
  # Deploy Documentation
 
- Congratulations! You have successfully created Docsify documentation. You can now deploy it to a web server or on GitHub.
+ Congratulations! You've successfully installed Docsify, now you have index.html & README.md set up, start crafting your documentation by writing in README.md. After completion, you can deploy it to a web server or on GitHub.
