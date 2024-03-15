@@ -144,7 +144,7 @@ sudo docsify -v
 
 # Deploy Documentation
 
-After completion, you can deploy it to a web server or on GitHub.If you want to deploy it on github first you need to create account on github. If you have created or already have a github account, you need to login github account.
+After completion, you can deploy it to a web server or on GitHub. If you want to deploy it on GitHub, first you need to create an account on GitHub. If you have already created or have an existing GitHub account, you need to log in to your GitHub account.
 
 
 i) after login click on 'Create New(+)' icon.
