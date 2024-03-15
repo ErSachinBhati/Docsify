@@ -175,7 +175,7 @@ iv) now click on ' Create repository '
 
 v) then click on 'uploading an existing file'
 
-![Screenshot from 2024-03-09 22-01-39](https://github.com/ErSachinBhati/Docsify/assets/158732178/1db50993-b542-45bf-bf74-b6957a9acd58)
+ ![docs](https://github.com/ErSachinBhati/Docsify/assets/158732178/6b67f3ff-96a0-4cda-b456-18bb5b566689)
 
 
 
@@ -194,7 +194,7 @@ vii) after upload, now click on 'Commit changes'
 
 viii) you have successfully deploy 'README.MD' file on github
 
-![Screenshot from 2024-03-09 22-03-33](https://github.com/ErSachinBhati/Docsify/assets/158732178/e77e3399-a13c-4b4b-b6e0-e6aec74e1d5b)
+![Screenshot from 2024-03-09 22-03-33](https://github.com/ErSachinBhati/Docsify/assets/158732178/eb4ec205-f2db-4425-b345-1625aa51af03)
 
 
 
