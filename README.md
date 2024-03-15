@@ -127,7 +127,13 @@ Docsify provides a simple way to customize the appearance of your documentation.
 ![Screenshot from 2024-03-04 16-18-11](https://github.com/ErSachinBhati/Docsify/assets/158732178/612d5276-0170-48f2-a12d-65fcb5081a75)
 
 
+Congratulations! You've successfully installed Docsify, now you have index.html & README.md set up, start crafting your documentation by writing in README.md.
 
- # Deploy Documentation
 
- Congratulations! You've successfully installed Docsify, now you have index.html & README.md set up, start crafting your documentation by writing in README.md. After completion, you can deploy it to a web server or on GitHub.
+![Screenshot from 2024-03-04 18-23-37](https://github.com/ErSachinBhati/Docsify/assets/158732178/0e9310ce-7a4e-4a40-9836-d68cf25aa622)
+
+
+
+# Deploy Documentation
+
+After completion, you can deploy it to a web server or on GitHub.
