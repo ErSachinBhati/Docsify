@@ -144,4 +144,59 @@ sudo docsify -v
 
 # Deploy Documentation
 
-After completion, you can deploy it to a web server or on GitHub.
+After completion, you can deploy it to a web server or on GitHub.If you want to deploy it on github first you need to create account on github. If you have created or already have a github account, you need to login github account.
+
+
+i) after login click on 'Create New(+)' icon.
+
+
+![image](https://github.com/ErSachinBhati/Docsify/assets/158732178/f8668f75-ebb3-43b2-b693-71960c9e8fdc)
+
+
+
+ii) then click on 'new repository'
+
+![image](https://github.com/ErSachinBhati/Docsify/assets/158732178/a74c4a5d-711d-461d-b415-28bebb9ae5ee)
+
+
+
+iii) enter "repository name" 
+
+![image](https://github.com/ErSachinBhati/Docsify/assets/158732178/936ef543-1a23-4fbf-a473-0ad6f485226b)
+
+
+
+iv) now click on ' Create repository '
+
+![image](https://github.com/ErSachinBhati/Docsify/assets/158732178/bda8f105-4ea4-46b3-9c23-d3a5b3209a77)
+
+
+
+
+v) then click on 'uploading an existing file'
+
+![Screenshot from 2024-03-09 22-01-39](https://github.com/ErSachinBhati/Docsify/assets/158732178/1db50993-b542-45bf-bf74-b6957a9acd58)
+
+
+
+
+vi) now you need to upload 'README.md' file by 'drag' or 'choose your files'
+
+![Screenshot from 2024-03-09 22-01-58](https://github.com/ErSachinBhati/Docsify/assets/158732178/0b32e86a-cc0d-4ac6-9f39-247c3799657d)
+
+
+
+vii) after upload, now click on 'Commit changes'
+
+![Screenshot from 2024-03-09 22-02-56](https://github.com/ErSachinBhati/Docsify/assets/158732178/1ad113e7-efd6-48a3-8796-9ead972fb035)
+
+
+
+viii) you have successfully deploy 'README.MD' file on github
+
+![Screenshot from 2024-03-09 22-03-33](https://github.com/ErSachinBhati/Docsify/assets/158732178/e77e3399-a13c-4b4b-b6e0-e6aec74e1d5b)
+
+
+
+
+
