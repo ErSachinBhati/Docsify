@@ -1,6 +1,6 @@
 # Introduction
 
-Docsify helps you create nice websites for your documentation easily. You just need to write your documentation using simple Markdown files, and Docsify takes care of turning them into a neat website. It's user-friendly, customizable, and doesn't need a lot of complicated setup.
+Docsify helps create nice websites for documentation easily. You just need to write your documentation using simple Markdown files, and Docsify takes care of turning them into a neat website. It's user-friendly, customizable, and doesn't need a lot of complicated setup.
 
 # Features
 
