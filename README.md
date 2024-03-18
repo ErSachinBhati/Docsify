@@ -45,14 +45,18 @@ sudo apt-get update
 ```
 
 It will update the list of packages and sync them to the latest version.
+
 Now, execute the following command in the terminal
 
 ```
 sudo apt-get install nodejs
 ```
+this command is used to install Node.js
+
 ```
 sudo apt-get install npm
 ```
+this command is used to install npm(Node Package Manager)
 
 
 If it has been installed or is already installed, then open your terminal and run the following command to install Docsify globally:
