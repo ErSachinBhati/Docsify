@@ -61,9 +61,8 @@ Now, execute the following command in the terminal
 ```
 sudo apt-get install nodejs
 ```
+
 this command is used to install Node.js
-
-
 
 ```
 sudo apt-get install npm
@@ -82,6 +81,11 @@ sudo npm install -i docsify-cli -g
 ```
 
 The command npm i docsify-cli -g is used to install the Docsify CLI (Command Line Interface) globally on your system using npm (Node Package Manager)
+
+npm         : This is the Node Package Manager, which is used to manage packages and dependencies for Node.js applications
+i           : This tells npm that you want to install a package.
+docsify-cli : This is the name of the package you want to install.
+-g          : This stands for "global", the package will be installed globally on your system.
 
 
 **Output**
