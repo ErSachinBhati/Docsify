@@ -63,6 +63,10 @@ sudo npm install -i docsify-cli -g
 
 **Output**
 
+
+![Screenshot from 2024-02-22 11-11-51](https://github.com/ErSachinBhati/Docsify/assets/158732178/48f045a3-92e1-48d6-94f9-153041fcf679)
+
+
 ![image](https://github.com/ErSachinBhati/Docsify/assets/158732178/7cc7d4d4-5abc-47db-8a99-e82da9b20627)
 
 
