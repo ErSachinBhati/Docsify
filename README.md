@@ -1,6 +1,6 @@
 * [Introduction](#Introduction)
 * [Features](#Features)
-* [Install Docsify](#InstallDocsify)
+* [Install Docsify](#Install Docsify)
 * [Create Documentation Files](#CreateDocumentationFiles)
 * [Initialize Docsify](#InitializeDocsify)
 * [Edit Documentation Content](#EditDocumentationContent)
