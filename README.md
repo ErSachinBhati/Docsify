@@ -57,7 +57,7 @@ It will update the list of packages and sync them to the latest version.
 
 sudo   :  It is a way to run programs with the security privileges of another user.
 
-apt-get:  It is a command-line tool for handling packages, or software on system
+apt-get:  It is a command-line tool for handling packages, or software on system.
 
 update :  it is updating the list of available packages from the repositories.
 
