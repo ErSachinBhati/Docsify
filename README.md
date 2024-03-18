@@ -69,6 +69,9 @@ npm i docsify-cli -g
 sudo npm install -i docsify-cli -g
 ```
 
+The command npm i docsify-cli -g is used to install the Docsify CLI (Command Line Interface) globally on your system using npm (Node Package Manager)
+
+
 **Output**
 
 
@@ -120,6 +123,8 @@ In the terminal, navigate to your project's root folder and run:
 ```
 docsify serve ./docs
 ```
+The command docsify serve ./docs is used to serve a Docsify documentation site locally from a specific directory (./docs)
+
 **Output**
 
 ![Screenshot from 2024-03-04 13-06-09](https://github.com/ErSachinBhati/Docsify/assets/158732178/8b1dc818-387b-45af-88b8-fec7b9daa3b7)
@@ -148,6 +153,7 @@ Congratulations! You have successfully installed Docsify, Now you can check the 
 ```
 sudo docsify -v
 ```
+This command is used to check the version of Docsify
 
 
 ![Screenshot from 2024-03-04 18-23-37](https://github.com/ErSachinBhati/Docsify/assets/158732178/0e9310ce-7a4e-4a40-9836-d68cf25aa622)
