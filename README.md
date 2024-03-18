@@ -25,10 +25,16 @@ node -v
 ```
 This command checks the installed version of Node.js
 
+**Command Breakdown**
+
+node : This is the command-line interface for running JavaScript code outside of a web browser. 
+
+-v   : This is an option that stands for "version".This is useful for verifying the installed version .
+
 ```
 npm -v
 ```
-This command checks the installed version of npm
+This command checks the installed version of npm(Node Package Manager)
 
 
 **Output**
