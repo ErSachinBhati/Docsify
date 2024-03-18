@@ -98,8 +98,7 @@ Run the following command in the terminal inside your documentation folder:
 docsify init ./docs
 ```
 
-This command creates a docs folder with necessary files and configurations.
-
+This command initializes a new Docsify documentation site in the ./docs directory
 
 ![Screenshot from 2024-02-22 12-41-40](https://github.com/ErSachinBhati/Docsify/assets/158732178/5a643e3b-432c-450f-9170-454b57c97409)
 
@@ -123,7 +122,7 @@ In the terminal, navigate to your project's root folder and run:
 ```
 docsify serve ./docs
 ```
-The command docsify serve ./docs is used to serve a Docsify documentation site locally from a specific directory (./docs)
+this command is used to serve a Docsify documentation site locally from a specific directory (./docs)
 
 **Output**
 
