@@ -127,6 +127,16 @@ docsify init ./docs
 
 This command initializes a new Docsify documentation site in the ./docs directory
 
+**Command Breakdown**
+
+docsify: This refers to the Docsify command-line tool.
+
+init: This is a command provided by Docsify to initialize a new documentation site.
+
+./docs: This specifies the directory where you want to initialize the Docsify documentation site.
+
+
+
 ![Screenshot from 2024-02-22 12-41-40](https://github.com/ErSachinBhati/Docsify/assets/158732178/5a643e3b-432c-450f-9170-454b57c97409)
 
 
