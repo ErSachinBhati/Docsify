@@ -52,9 +52,15 @@ sudo apt-get update
 
 It will update the list of packages and sync them to the latest version.
 
+**Command Breakdown**
+
+
 sudo   :  It is a way to run programs with the security privileges of another user.
+
 apt-get:  It is a command-line tool for handling packages, or software on system
+
 update :  it is updating the list of available packages from the repositories.
+
 
 Now, execute the following command in the terminal
 
@@ -82,9 +88,14 @@ sudo npm install -i docsify-cli -g
 
 The command npm i docsify-cli -g is used to install the Docsify CLI (Command Line Interface) globally on your system using npm (Node Package Manager)
 
+**Command Breakdown**
+
 npm         : This is the Node Package Manager, which is used to manage packages and dependencies for Node.js applications
+
 i           : This tells npm that you want to install a package.
+
 docsify-cli : This is the name of the package you want to install.
+
 -g          : This stands for "global", the package will be installed globally on your system.
 
 
