@@ -23,9 +23,13 @@ First, make sure you have Node.js and npm installed on your computer/Laptop.
 ```
 node -v
 ```
+This command checks the installed version of Node.js
+
 ```
 npm -v
 ```
+This command checks the installed version of npm
+
 
 **Output**
 
