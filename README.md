@@ -1,11 +1,11 @@
 * [Introduction](#Introduction)
 * [Features](#Features)
-* [Install Docsify](#Install Docsify)
-* [Create Documentation Files](#CreateDocumentationFiles)
-* [Initialize Docsify](#InitializeDocsify)
-* [Edit Documentation Content](#EditDocumentationContent)
-* [Preview Your Documentation](#PreviewYourDocumentation)
-* [Deploy Documentation](#DeployDocumentation)
+* [Install Docsify](#Install-Docsify)
+* [Create Documentation Files](#Create-Documentation-Files)
+* [Initialize Docsify](#Initialize-Docsify)
+* [Edit Documentation Content](#Edit-Documentation-Content)
+* [Preview Your Documentation](#Preview-Your-Documentation)
+* [Deploy Documentation](#Deploy-Documentation)
 
 # Introduction
 
