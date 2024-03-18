@@ -52,12 +52,18 @@ sudo apt-get update
 
 It will update the list of packages and sync them to the latest version.
 
+sudo   :  It is a way to run programs with the security privileges of another user.
+apt-get:  It is a command-line tool for handling packages, or software on system
+update :  it is updating the list of available packages from the repositories.
+
 Now, execute the following command in the terminal
 
 ```
 sudo apt-get install nodejs
 ```
 this command is used to install Node.js
+
+
 
 ```
 sudo apt-get install npm
