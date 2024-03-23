@@ -192,6 +192,17 @@ sudo docsify -v
 ```
 This command is used to check the version of Docsify.
 
+**Output**
+
+sachin@sachin-Inspiron-15-3567:~$ sudo docsify -v
+[sudo] password for sachin: 
+
+docsify-cli version:
+  4.4.4
+
+sachin@sachin-Inspiron-15-3567:~$ 
+
+
 # Deploy Documentation
 
 Congratulations! You have successfully installed Docsify, After completion, you can deploy it to a web server or on GitHub. 
@@ -203,10 +214,3 @@ https://dev.to/erikmelone/centralize-your-documentation-with-docsify-fdf
 https://puresourcecode.com/tools/create-documentation-with-docsify-and-github-pages/
 
 https://docsify.js.org/#/
-
-
-
-
-
-
-
