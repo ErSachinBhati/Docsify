@@ -50,9 +50,13 @@ This command checks the installed version of npm(Node Package Manager)
 **Output**
 
 sachin@sachin-Inspiron-15-3567:~$ node -v
+
 v21.6.2
+
 sachin@sachin-Inspiron-15-3567:~$ npm -v
+
 10.4.0
+
 sachin@sachin-Inspiron-15-3567:~$ 
 
 
@@ -116,7 +120,9 @@ sachin@sachin-Inspiron-15-3567:~$ npm i docsify-cli -g
 added 204 packages in 31s
 
 17 packages are looking for funding
+
   run `npm fund` for details
+
 sachin@sachin-Inspiron-15-3567:~$ 
 
 
@@ -145,8 +151,11 @@ init: This is a command provided by Docsify to initialize a new documentation si
 
 **Output**
 
+
 sachin@sachin-Inspiron-15-3567:~$ docsify init ./docs
+
 Initialization succeeded! Please run docsify serve ./docs
+
 sachin@sachin-Inspiron-15-3567:~$ 
 
 
@@ -170,10 +179,13 @@ this command is used to serve a Docsify documentation site locally from a specif
 Initialization succeeded! Please run docsify serve ./docs
 
 sachin@sachin-Inspiron-15-3567:~$ docsify serve ./docs
+
 (node:11476) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+
 (Use `node --trace-deprecation ...` to show where the warning was created)
 
 Serving /home/sachin/docs now.
+
 Listening at http://localhost:3000
 
 
@@ -195,9 +207,11 @@ This command is used to check the version of Docsify.
 **Output**
 
 sachin@sachin-Inspiron-15-3567:~$ sudo docsify -v
+
 [sudo] password for sachin: 
 
 docsify-cli version:
+
   4.4.4
 
 sachin@sachin-Inspiron-15-3567:~$ 
