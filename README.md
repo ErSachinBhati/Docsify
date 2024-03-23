@@ -6,6 +6,7 @@
 * [Edit Documentation Content](#Edit-Documentation-Content)
 * [Preview Your Documentation](#Preview-Your-Documentation)
 * [Deploy Documentation](#Deploy-Documentation)
+* [References](#References)
 
 # Introduction
 
@@ -258,6 +259,16 @@ vii) after upload, now click on 'Commit changes'
 viii) you have successfully deploy 'README.MD' file on github
 
 ![Screenshot from 2024-03-09 22-03-33](https://github.com/ErSachinBhati/Docsify/assets/158732178/eb4ec205-f2db-4425-b345-1625aa51af03)
+
+# References
+
+https://dev.to/erikmelone/centralize-your-documentation-with-docsify-fdf
+
+https://puresourcecode.com/tools/create-documentation-with-docsify-and-github-pages/
+
+https://docsify.js.org/#/
+
+
 
 
 
